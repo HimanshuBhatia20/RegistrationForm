@@ -1,0 +1,22 @@
+.subscriptions
+{
+	float: left;
+}
+
+
+.imgcontainer {
+    text-align: center;
+    margin: 24px 0 12px 0;
+}
+
+img.avatar {
+    width: 600px;
+	height: 600px;
+	border: 10px solid black;
+}
+body
+{
+height:725px;
+width:1510px;
+background:linear-gradient(orange,white,green);
+}
